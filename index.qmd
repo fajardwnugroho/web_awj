@@ -1,0 +1,14 @@
+---
+title: "Welcome, Peoplelitycs"
+image: images/awj.png
+about:
+  template: jolla
+  links:
+    - text: Course Registartion
+      url: "https://www.linkedin.com/in/purwito-djoko-yuwono-184667117/"
+    # - text: Twitter
+    #   icon: twitter
+    #   url: "https://twitter.com/mikemahoney218"
+
+    # (additional links excluded for brevity)
+---

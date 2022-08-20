@@ -1,0 +1,38 @@
+project:
+  type: website
+
+website:
+  page-navigation: true
+  title: "Analytics With Jep"
+  author: "Fajar Nugroho"
+  description: "Belajar Data Science with R"
+  date: now
+  site-url: "https://analyticswithjep.com/"
+
+  navbar:
+    background: "#111"
+    #logo: "images/awj.png"
+    align: center
+    title: Analytics With Jep
+    collapse-below: lg
+
+    left:
+      - text: "Home"
+        href: index.qmd
+
+  page-footer:
+    left: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
+    background: "#111"
+
+format:
+  html:
+    theme: darkly
+    css: styles.css
+    toc: false
+    code-copy: true
+    code-overflow: wrap
+
+freeze: auto
+
+editor: visual
+
